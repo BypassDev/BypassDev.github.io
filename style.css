@@ -1,0 +1,38 @@
+#dname {
+
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250px;
+    text-shadow: 0 0 40px #ff0000;
+    color: #ff008c;
+    position: relative;
+}
+    html { 
+        background: url(sky.png) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+      #ab1 {
+
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 80px;
+        font-weight: bold;
+        text-shadow: 0 0 15px #4100d8;
+        color: #ff0800;
+        position: relative;
+    }
+    #myInput {
+
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 80px;
+        font-weight: bold;
+        text-shadow: 0 0 15px #d80085;
+        color: #00ff22;
+        border: 2px solid black;
+        border-radius: 5px;
+        position: relative;
+    }
